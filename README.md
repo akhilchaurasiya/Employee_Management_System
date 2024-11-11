@@ -1,4 +1,4 @@
-![add_employee](https://github.com/user-attachments/assets/b148c03c-c870-4838-ad7d-d2b59ac1b1aa)# 📂 Employee Management System
+# 📂 Employee Management System
 
 ## Description
 The Employee Management System is a project built to manage employee profiles with CRUD operations. It allows users to create, update, and delete employee details. Employees can be searched and filtered by criteria such as department, position, and more. The system also includes role-based access control, enabling different user roles (admin, manager, employee) to have different levels of access.
